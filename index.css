@@ -1,0 +1,17 @@
+.titre{
+    font-weight: bold;
+    text-align: center;
+    color: red;
+}
+
+.text{
+    text-align: justify;
+    font-size: large;
+}
+
+.form{
+    font-weight: bold;
+    font-style: italic;
+}
+
+
